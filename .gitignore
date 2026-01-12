@@ -1,0 +1,36 @@
+# Временные файлы операционной системы
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Логи и кэш
+*.log
+*.cache
+
+# Файлы редакторов/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Среда Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Среда Node.js
+node_modules/
+npm-debug.log*
+
+# Скомпилированные файлы
+*.class
+*.exe
+*.dll
+*.so
+*.out
+
+# Системные файлы
+*.~
+~$*
