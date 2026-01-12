@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Cascadia Mono', 'Consolas', monospace",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "on"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "workbench.colorTheme": "Dark Modern"
+}
